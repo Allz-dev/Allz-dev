@@ -17,3 +17,8 @@ Currently Learning Java and JavaScript
 - C
 - Python
 - Git & GitHub
+
+
+
+### Contact:
+faria.rafael.dev@gmail.com
