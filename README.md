@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, choom👋
 
-<!--
-**Allz-dev/Allz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Allz
 
-Here are some ideas to get you started:
+Computer Science student at UDF, Brazil.
+I speak Portuguese and English.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning software development with a focus on Python, C,
+problem-solving, and open-source collaboration. I love PC building and modding games.
+
+## Learning
+
+Currently Learning Java and JavaScript
+
+## Technologies
+
+- C
+- Python
+- Git & GitHub
